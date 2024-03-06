@@ -21,6 +21,8 @@ propiedades, listas, archivos y controles básicos y avanzados, realizar el ejer
 5.	Exportación de datos al archivo de texto llamado “archivo.txt” mediante la utilización del botón “Guardar”, el cual se desactiva luego de su uso.
 
 [![imagen-2024-03-05-234703767.png](https://i.postimg.cc/52pBnH49/imagen-2024-03-05-234703767.png)](https://postimg.cc/YvGLSCLT)
+
+[![imagen-2024-03-06-162635334.png](https://i.postimg.cc/C1j0jTgD/imagen-2024-03-06-162635334.png)](https://postimg.cc/qhMWTFgM)
  
 6.	Eliminación de datos del DataGridView mediante la selección de la fila y uso del botón “Eliminar”, el cual pide confirmación.
  

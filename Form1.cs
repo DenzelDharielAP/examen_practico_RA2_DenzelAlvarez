@@ -12,7 +12,16 @@
 
     namespace examen_practico_RA2_DenzelAlvarez
     {
-    public class Estudiante
+
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+
+
+        }
+        public class Estudiante
     {
         public int Matricula { get; set; }
         public string Nombre { get; set; }
@@ -25,14 +34,7 @@
         public string Area { get; set; }
         public string Maestro { get; set; }
     }
-        public partial class Form1 : Form
-        {
-            public Form1()
-            {
-                InitializeComponent();
 
-                
-            }
 
             private void btnNuevo_Click(object sender, EventArgs e)
             {
